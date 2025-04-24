@@ -1,3 +1,5 @@
+[![PSScriptAnalyzer](https://github.com/jomardyan/Dora-Naming/actions/workflows/powershell.yml/badge.svg)](https://github.com/jomardyan/Dora-Naming/actions/workflows/powershell.yml)
+
 # DORA File Renamer
 
 This PowerShell script provides a graphical user interface (GUI) for generating and renaming files based on a custom naming convention. The UI lets you:
