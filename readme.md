@@ -27,7 +27,7 @@ This PowerShell script provides a graphical user interface (GUI) for generating 
 
 1. Open PowerShell and navigate to the script directory:
     ```powershell
-    cd 'c:\Users\jomar\Downloads\Dora Naming'
+    cd 'c:\Users\...\Downloads\Dora Naming'
     ```
 
 2. Execute the script:
